@@ -1,0 +1,11 @@
+antlr4-visitor <Grammar_name> Execute String
+
+antlr4-main -v <visitor_name>
+
+antlr4-build
+
+antlr4-run
+
+----------
+reter), t
+echo -e "<...>" | <grammar>
