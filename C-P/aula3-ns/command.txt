@@ -6,6 +6,16 @@ antlr4-build
 
 antlr4-run
 
-----------
-reter), t
+------------------------------------------------------------
+
+antlr4-listener <Grammar_name> Execute String
+
+antlr4-main -l <listener_name>
+
+antlr4-build
+
+antlr4-run
+
+------------------------------------------------------------
+
 echo -e "<...>" | <grammar>
