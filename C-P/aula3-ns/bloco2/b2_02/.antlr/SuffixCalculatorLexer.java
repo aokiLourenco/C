@@ -1,4 +1,4 @@
-// Generated from /home/aoki/UA/ano3/sem2/C/C-P/aula3/bloco2/b2_02/SuffixCalculator.g4 by ANTLR 4.13.1
+// Generated from /home/aoki/UA/ano3/sem2/C/C-P/aula3-ns/bloco2/b2_02/SuffixCalculator.g4 by ANTLR 4.13.1
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Token;
